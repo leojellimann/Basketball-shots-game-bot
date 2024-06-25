@@ -7,3 +7,5 @@ As the game was a bit hard to play on our phone, I tried to automate the throws 
 By automating these basketball throws, I discovered a lot of new methods used in Python, in particular regarding detection of objects, shapes and colors, which you can see in the code.
 
 I finally haven't won the challenge, but it was exciting trying to make bucket automatically without even moving my mouse :) 
+
+(I won't add any picture/videos of the website in case of cheat accusing, even if I haven't used it to cheat as I didn't win)
