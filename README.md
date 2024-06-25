@@ -8,4 +8,4 @@ By automating these basketball throws, I discovered a lot of new methods used in
 
 I finally haven't won the challenge, but it was exciting trying to make bucket automatically without even moving my mouse :) 
 
-(I won't add any picture/videos of the website in case of cheat accusing, even if I haven't used it to cheat as I didn't win)
+(I won't add any pictures/videos of the website in case of cheat accusing, even if I haven't used it to cheat as I didn't win)
